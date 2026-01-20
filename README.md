@@ -1,4 +1,4 @@
-# ARI —  The Voice Agent
+# ARI — The Voice Agent
 
 > Work in progress
 
