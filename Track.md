@@ -1,4 +1,4 @@
-# Mira — Project Tracker
+# Ari — Project Tracker
 
 This file tracks **all tasks derived from the assignment description**. It is a single source of truth for what exists, what is in progress, and what is intentionally skipped.
 
